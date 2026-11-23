@@ -1,0 +1,4 @@
+# Kit + fetch tooling — kept out of the submitted snapshot.
+kit/
+kit-fresh.tar.gz
+fetch-kit.mjs
